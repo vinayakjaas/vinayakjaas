@@ -1,4 +1,4 @@
-![logo](https://github.com/vinayakjaas/vinayakjaas/blob/main/VINAYAK%20RAJ%20RANJAN%20WELCOME.gif)
+<!-- ![logo](https://github.com/vinayakjaas/vinayakjaas/blob/main/VINAYAK%20RAJ%20RANJAN%20WELCOME.gif) -->
 
 
 <h1 align="center">Hi 👋, I'm Vinayak Raj Ranjan</h1>
